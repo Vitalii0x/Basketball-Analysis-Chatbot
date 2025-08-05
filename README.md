@@ -2,6 +2,9 @@
 
 A sophisticated basketball analysis chatbot built with **LangChain**, **Hugging Face Llama models**, and **Pinecone** vector database. This application provides intelligent responses to basketball-related questions using advanced AI and vector search capabilities.
 
+---
+https://github.com/user-attachments/assets/8c09e4e2-572c-457e-a0e2-484e42cfd795
+
 ## ✨ Features
 
 - **🤖 AI-Powered Responses**: Uses Hugging Face language models for natural conversation
