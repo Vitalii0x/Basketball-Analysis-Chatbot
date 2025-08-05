@@ -1,0 +1,15 @@
+# Hugging Face API Token
+HUGGINGFACE_API_TOKEN=your_huggingface_token_here
+
+# Pinecone API Key
+PINECONE_API_KEY=your_pinecone_api_key_here
+
+# Pinecone Environment
+PINECONE_ENVIRONMENT=your_pinecone_environment_here
+
+# Pinecone Index Name
+PINECONE_INDEX_NAME=basketball-analysis
+
+# Model Configuration
+MODEL_NAME=meta-llama/Llama-2-7b-chat-hf
+EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2 
