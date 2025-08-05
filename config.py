@@ -8,8 +8,8 @@ class Config:
     """Configuration class for the basketball analysis chatbot."""
     
     # Hugging Face Configuration
-    HUGGINGFACE_API_TOKEN = os.getenv("HUGGINGFACE_API_TOKEN")
-    MODEL_NAME = os.getenv("MODEL_NAME", "meta-llama/Llama-2-7b-chat-hf")
+    HUGGINGFACE_API_TOKEN = os.getenv("")
+    MODEL_NAME = os.getenv("MODEL_NAME", "meta-llama/Llama-3-7b-chat-hf")
     EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
     
     # Pinecone Configuration
